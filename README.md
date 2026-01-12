@@ -1,4 +1,4 @@
-# Drain the Vault: Infinite Card Counter
+# Drain the Vault: Infinite Card Game
 
 A fast-paced, espionage-themed "Higher or Lower" card game written in Python
 3.10+. The core loop is infinite, upgrade-driven, and designed to be extensible
